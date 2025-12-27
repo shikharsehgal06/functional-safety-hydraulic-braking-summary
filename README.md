@@ -5,7 +5,7 @@ Summary of NHTSA Functional Safety Assessment of a Conventional Hydraulic Brakin
 
 ## Author
 Shikhar Sehgal  
-Mechatronics Engineering Student  
+Second Year Mechatronics Engineering Student  
 
 ---
 
