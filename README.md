@@ -3,6 +3,12 @@ Summary of NHTSA Functional Safety Assessment of a Conventional Hydraulic Brakin
 
 # Functional Safety Assessment of a Conventional Hydraulic Braking System
 
+## Author
+Shikhar Sehgal  
+Mechatronics Engineering Student  
+
+---
+
 In this report, an assessment of functional safety of a generic conventional hydraulic brake system (includes ABS, TCS and ESC) is presented. This study is being undertaken by the Volpe National Transportation Systems Center on behalf of the National Highway Traffic Safety Administration (NHTSA) using ISO 26262 — the international standard for functional and electrical automotive safety/functionality — as a foundation during the Concept Phase (CP). The objectives of this study are to specify possible hazards/risks, evaluate the risk management strategies, and create Functional Safety Requirements (FSR's) for the generic BS technologies that will aid in the creation of Driver Assistance Technology (DAT) and Automated Driving System (ADS) AE technologies of today.
 
 ---
@@ -131,3 +137,18 @@ The study comes to the conclusion that it is both practical and beneficial to ap
 - Developing a foundational functional safety framework for CHB systems
 - Giving specific instances of risks, ASIL assignments, safety objectives, specifications, diagnostics, and test scenarios
 - Providing fundamental research data to support upcoming NHTSA initiatives and policy decisions
+
+---
+
+## License
+This work is licensed under the **Creative Commons Attribution 4.0 International License (CC BY 4.0)**.
+
+You are free to share and adapt this material, provided appropriate credit is given to the author.
+
+---
+
+## Disclaimer
+This repository contains an original summary written by the author.  
+The original report is published by the National Highway Traffic Safety Administration (NHTSA).  
+
+This summary is provided for educational purposes only and does not represent official regulatory guidance or positions of NHTSA or Volpe.
